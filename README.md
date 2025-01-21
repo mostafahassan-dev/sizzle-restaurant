@@ -1,6 +1,8 @@
 # Sizzle Restaurant
 
 A responsive restaurant website built with HTML, CSS, and Bootstrap. Features an elegant design showcasing the restaurant's menu, ambiance, and services.
+created as part of the **Developing Websites and Front-Ends with Bootstrap** course on Coursera.
+
 
 ## Features
 - Responsive navigation and hero section
